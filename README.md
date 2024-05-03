@@ -1,7 +1,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Bem Vindo a Unik Cabo Frio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unikcabofrio&color=green" alt="Profile views" /> </p>
 
-- 🔥 Designer e Programador Front-end e Back-end
+- 🔥 Designer e Programador Full-Stack
 
 - 🔭 Atualmente trabalho como Designer Gráfico, mas também faço serviços Freelancer como programador 
 
